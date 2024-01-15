@@ -1,6 +1,7 @@
 #Favicon 
 
-
+#Menu PNG
+<a href="https://www.flaticon.com/free-icons/hamburger" title="hamburger icons">Hamburger icons created by bsd - Flaticon</a>
 
 #Bonsai Bilder
 
@@ -21,3 +22,6 @@ https://2.bp.blogspot.com/-M7ZxGrJ6P8A/V0mWA7m8l9I/AAAAAAACJ5E/1qSEyU-_s9cKBVvEk
 
 black-olive-bonsai-tree.jpg
 https://www.bonsaitreegardener.net/wp-content/uploads/2015/04/black-olive-bonsai-tree.jpg
+
+#Colors
+Orange #FCB30B
