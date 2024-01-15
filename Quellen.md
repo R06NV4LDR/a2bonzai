@@ -23,5 +23,11 @@ https://2.bp.blogspot.com/-M7ZxGrJ6P8A/V0mWA7m8l9I/AAAAAAACJ5E/1qSEyU-_s9cKBVvEk
 black-olive-bonsai-tree.jpg
 https://www.bonsaitreegardener.net/wp-content/uploads/2015/04/black-olive-bonsai-tree.jpg
 
+9WxFURk.jpg
+https://wallpapercave.com/wp/9WxFURk.jpg
+
+34977.jpg
+https://wallpaperset.com/w/full/f/e/4/34977.jpg
+
 #Colors
 Orange #FCB30B
