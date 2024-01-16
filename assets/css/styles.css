@@ -28,6 +28,14 @@ p {
     text-align: center;
 }
 
+h4 {
+    margin: 0.5em 0;
+    padding: 0em;
+    color: rgb(193, 240, 22);
+    text-align: center;
+    text-shadow: -1px 2px 5px 0px #000000;
+}
+
 #wrapper {
     position: relative;
 }
@@ -317,7 +325,7 @@ li {
     
 }
 
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 1024px) and (max-width: 1439px) {
 
     /* Styles for devices between 768px and 1023px (e.g., tablets) */
     #app header {
@@ -342,10 +350,44 @@ li {
 
     
         .container {
-            width: 768px;
+            width: 1024px;
             margin: 0 auto;
             display: grid;
             grid-template-columns: 1fr 1fr 1fr 1fr;
+            grid-gap: 2em;
+        }
+    
+}
+
+@media screen and (min-width: 1440px) {
+
+    /* Styles for devices between 768px and 1023px (e.g., tablets) */
+    #app header {
+        font-size: 16px;
+        /* Adjust font size for header on tablets */
+    }
+
+    #app main {
+        padding: 1em;
+        /* Adjust main content padding for tablets */
+    }
+
+    #app main article {
+        margin-bottom: 1.5em;
+        /* Adjust article margin for tablets */
+    }
+
+    #app footer {
+        padding: 1em;
+        /* Adjust footer padding for tablets */
+    }
+
+    
+        .container {
+            width: 1440px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
             grid-gap: 2em;
         }
     
